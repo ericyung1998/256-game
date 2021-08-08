@@ -1,6 +1,6 @@
 # 256-game
  
- ISOM3230 (Business Applications Programming): Assignment 1
+ ISOM3230 (Business Applications Programming): Project 1
 - 256 game on a 3x3 grid
 
 <br>
